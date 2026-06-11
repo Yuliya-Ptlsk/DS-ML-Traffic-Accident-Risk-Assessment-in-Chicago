@@ -319,6 +319,6 @@ Potential extensions include:
 
 ## Author
 
-Traffic Accident Risk Forecasting Project
+Traffic Accident Risk Assessment Project
 
 Data Science / Machine Learning Final Project
