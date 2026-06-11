@@ -11,3 +11,4 @@ streamlit~=1.58.0
 streamlit-folium~=0.27.2
 seaborn~=0.13.2
 matplotlib~=3.10.9
+ipython
