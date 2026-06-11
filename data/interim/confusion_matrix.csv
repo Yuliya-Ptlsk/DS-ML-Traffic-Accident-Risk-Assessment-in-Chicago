@@ -1,0 +1,6 @@
+model,threshold,tn,fp,fn,tp
+LogReg Numeric,,239907,175175,2300,4366
+LogReg Numeric + Segment,,272854,142228,1967,4699
+MLP Numeric,0.74,386583,28499,5358,1308
+MLP Numeric + Segment,0.49,377891,37191,5059,1607
+CatBoost,0.75,400341,14741,5515,1151

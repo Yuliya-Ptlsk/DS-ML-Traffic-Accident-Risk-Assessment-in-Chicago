@@ -272,7 +272,18 @@ cd DS-ML-Traffic-Accident-Risk-Assessment-in-Chicago
 pip install -r requirements.txt
 ```
 
-### 3. Train the Best Model if there is no catboost_model.cbm
+### 3. Download data
+
+Initial datasets. Should be stored in ```data/raw``` directory
+
+- https://drive.google.com/file/d/1H1xY-GCUW9E-ALYfWj1aDKkceoJ9tn0P/view?usp=drive_link
+- https://drive.google.com/file/d/176iwS3UuXtyljyU30wfY7GGfu7VT0V4c/view?usp=drive_link
+
+Model file. Should be stored in ```models``` directory
+
+- https://drive.google.com/file/d/1dkYcZco3l0ukOQOvrsaPN_uW6g8q3kqk/view?usp=drive_link
+
+### 4. Train the Best Model if there is no catboost_model.cbm
 
 Run training pipeline located in:
 
