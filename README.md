@@ -304,6 +304,8 @@ models/catboost_model.cbm
 ```
 
 ### 4. Launch Interactive Application
+Download model file and store in ```models``` directory
+- https://drive.google.com/file/d/1dkYcZco3l0ukOQOvrsaPN_uW6g8q3kqk/view?usp=drive_link
 
 From the project root directory:
 
